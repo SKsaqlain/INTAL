@@ -2,8 +2,7 @@
 The given project was carried out as a part of 'Design and Analysis of Algorithms' Course at PES University.
 
 ## Description
- "INTAL", short for integer of arbitrary length, a library of nonnegative integers of 
-arbitrary length and its related functions to support arithmetic operations.
+"INTAL", short for an integer of arbitrary length, a library of nonnegative integers of arbitrary length and its related functions to support arithmetic operations.
 
 ## Usage.
 To clone this repository
